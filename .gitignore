@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+
+# Logs
+logs/
+*.log
+
+# Build
+dist/
+build/
+out/
+
+# SO
+.DS_Store
+Thumbs.db
